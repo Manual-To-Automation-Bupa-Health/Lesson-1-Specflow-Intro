@@ -13,8 +13,8 @@ namespace SpecFlowProject1.Steps
     public sealed class BasicSeleniumTestSteps
     {
         private static IWebDriver _driver;
-        private static readonly string username = "gary.b+demo@browserstack.com";
-        private static readonly string password = "Automati0nTesting!";
+        private static readonly string username = "";
+        private static readonly string password = "";
 
         public BasicSeleniumTestSteps(IWebDriver driver)
         {
